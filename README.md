@@ -1,5 +1,7 @@
 # ERSP-MachineLearning
 This repository contains the source code for linear regression models.
+Source data and codes for cleaning up data are not shown here.
+
 
 Main Models
 
@@ -26,4 +28,4 @@ clusPostcode.py :
 - output produced in a file called postcodeCluster.json.gz
 
 
-Source data and codes for cleaning up data are not shown here.
+
